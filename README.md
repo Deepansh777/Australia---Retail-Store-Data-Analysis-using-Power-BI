@@ -4,4 +4,4 @@ This report is meant to provide data-driven decision making, while emphasizing u
 
 
 
-![](Retail Dashboard-1.jpg)
+![](Retail Dashboard.png)
